@@ -83,7 +83,7 @@
   
 [![LinkedIn Logo](https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rogerio-romao/)
 [![Codepen Logo](https://img.shields.io/badge/codepen-black?style=for-the-badge&logo=codepen)](https://codepen.io/rogerio-romao)
-[![Portfolio Logo](https://img.shields.io/badge/portfolio-8BC34B?style=for-the-badge&logo=vercel)](https://portfolio-v2-puce-theta.vercel.app/)
+[![Portfolio Logo](https://img.shields.io/badge/portfolio-8BC34B?style=for-the-badge&logo=vercel)](https://rogerioromao.dev)
 
 
 <!--
